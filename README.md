@@ -1,5 +1,11 @@
+![logo](https://github.com/kritika12saini/kritika12saini/blob/main/github_image.jpg)
+
 <h1 align="center">Hi 👋, I'm kritika saini</h1>
 <h3 align="center">I am engineering student</h3>
+
+<img align="right" alt="coding" width="390" src="https://codetrinity.com/assets/image/full-stack-developer-img/full-stack-dev.gif">
+
+
 
 - 🔭 I’m currently working on [secure user authentication](https://github.com/kritika12saini/PRODIGY_FS_01)
 
